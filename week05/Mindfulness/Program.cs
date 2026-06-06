@@ -1,3 +1,9 @@
+// Exceeding Requirements:
+// I added a Gratitude Activity that helps users focus on
+// things they are grateful for. This activity inherits
+// from the Activity base class and uses the common
+// functionality shared by all activities.
+
 using System;
 using System.Reflection.Metadata;
 

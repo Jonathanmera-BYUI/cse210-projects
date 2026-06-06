@@ -17,12 +17,12 @@ public GratitudeActivity()
 
 public void Run()
 {
-DisplayStartingMessage();
+    DisplayStartingMessage();
 
-List<string> gratitudeItems = new List<string>();
+    List<string> gratitudeItems = new List<string>();
 
-Console.WriteLine();
-Console.WriteLine("List 3 things you are grateful for:");
+    Console.WriteLine();
+    Console.WriteLine("List 3 things you are grateful for:");
 
 for (int i = 0; i < 3; i++)
 {
