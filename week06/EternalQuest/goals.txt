@@ -1,0 +1,3 @@
+300
+SimpleGoal|gym |training |300|True
+ChecklistGoal|gym |go to the gym |30|3|30|0
